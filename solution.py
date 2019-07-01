@@ -2,6 +2,7 @@
 import sys
 import numpy as np
 
+
 def main():
     input_dir, output_dir = sys.argv[1:]
     
